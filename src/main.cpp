@@ -33,7 +33,7 @@
 
 // ---------------------------------------------------------------- réglages
 // À adapter : votre équipe, votre joueur et votre local
-const char* EQUIPE = "equipe1";              // nom court, sans espace, UNIQUE dans la classe (même valeur que dans l'interface)
+const char* EQUIPE = "IJ";                   // nom court, sans espace, UNIQUE dans la classe (même valeur que dans l'interface)             // nom court, sans espace, UNIQUE dans la classe (même valeur que dans l'interface)
 const char* JOUEUR = "j1";                   // "j1" ou "j2" (j2 sur la carte du coéquipier)
 
 const char* WIFI_SSID = "TGE-C3521";         // Local C-3521
